@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="dark_primary">#F57C00</color>
+    <color name="default_primary">#FF9800</color>
+    <color name="light_primary">#FFE0B2</color>
+    <color name="accent">#448AFF</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="window_background">#FFFFFF</color>
+
+
+    <color name="BluecolorPrimary">#125688</color>
+    <color name="BluecolorPrimaryDark">#0C3C5F</color>
+    <color name="BluetextColorPrimary">#FFFFFF</color>
+    <color name="BluewindowBackground">#FFFFFF</color>
+    <color name="BluenavigationBarColor">#000000</color>
+    <color name="BluecolorAccent">#E7EEF3</color>
+
+    <color name="OrangecolorPrimaryDark">#F57C00</color>
+    <color name="OrangecolorPrimaryDefault">#FF9800</color>
+    <color name="OrangecolorPrimary">#FFE0B2</color>
+    <color name="OrangecolorAccent">#448AFF</color>
+    <color name="OrangecolorPrimaryText">#212121</color>
+    <color name="OrangecolorSecondaryText">#757575</color>
+    <color name="OrangecolorDivider">#BDBDBD</color>
+    <color name="OrangecolorWindowBackground">#FFFFFF</color>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bhabin Mobile</string>
+    <string name="app_developed_by">I.Wahjoedi (indra.wahjoedi@gmail.com)</string>
+
+    <string name="backend_api">http://bmcpontura.lndyn.com/api/v1/</string>
+
+    <!-- Activity DDS -->
+    <string name="activity_label_submissiondds">DDS</string>
+    <string name="submissiondds_lokasi_gps_hint">Lokasi GPS</string>
+    <string name="submissiondds_jenis_kunjungan_hint">Jenis Kunjungan</string>
+
+
+    <!-- Demo Location -->
+    <string name="pause">Pause Location Updates</string>
+    <string name="resume">Resume Location Updates</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
